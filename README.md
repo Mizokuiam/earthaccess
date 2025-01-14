@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/earthaccess)
+![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/earthaccess)
+![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/earthaccess)
+![GitHub license](https://img.shields.io/github/license/Mizokuiam/earthaccess)
+
 # _earthaccess_
 
 <p align="center">
