@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Common Changelog](https://common-changelog.org/)
 and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [2025-01-14]
+- Update badges
+- Merge pull request #920 from itcarroll/fix-download-gzip
+
+download using chunk iteration rather than raw response
+- add CHANGELOG entry
+- replace copyfileobj with iter_chunks
+- Fix `CATEGORY_ID` in hack day discussion workflow (#917)
+
 ## [Unreleased]
 
 ### Fixed
